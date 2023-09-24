@@ -727,18 +727,18 @@ footer span a:visited {
   z-index: -999999;
   opacity: 0;
 }
-.map,
+.spotlight,
 .posts {
   color: #fff;
   background: #111;
 }
-.map .title::before,
+.spotlight .title::before,
 .posts .title::before {
   background: #fff;
 }
-.map .title::after {
+.spotlight .title::after {
   background: #111;
-  content: "get my loaction";
+  content: "get into my head";
 }
 iframe {
   width: 100%;
